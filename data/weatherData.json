@@ -1,0 +1,86 @@
+[
+  {
+    "coord": { "lon": 7.367, "lat": 45.133 },
+    "main": {
+      "temp": 284.2,
+      "feels_like": 282.93,
+      "temp_min": 283.06,
+      "temp_max": 286.82
+    },
+    "visibility": 10000,
+    "wind": { "speed": 4.09, "deg": 121, "gust": 3.47 },
+    "rain": "moderate rain",
+    "timezone": 7200,
+    "name": "Turin"
+  },
+  {
+    "coord": { "lon": 28.557, "lat": 77.351 },
+    "main": {
+      "temp": 288.4,
+      "feels_like": 286.4,
+      "temp_min": 283.16,
+      "temp_max": 293.2
+    },
+    "visibility": 6000,
+    "wind": { "speed": 6.4, "deg": 105, "gust": 4.52 },
+    "rain": "heavy rain",
+    "timezone": 5300,
+    "name": "Delhi"
+  },
+  {
+    "coord": { "lon": 30.15, "lat": 66.44 },
+    "main": {
+      "temp": 286.1,
+      "feels_like": 285.4,
+      "temp_min": 282.44,
+      "temp_max": 290.1
+    },
+    "visibility": 8000,
+    "wind": { "speed": 5.2, "deg": 115, "gust": 4.11 },
+    "rain": "moderate rain",
+    "timezone": 5300,
+    "name": "Agra"
+  },
+  {
+    "coord": { "lon": 25.45, "lat": 62.1 },
+    "main": {
+      "temp": 280.5,
+      "feels_like": 278.4,
+      "temp_min": 275.2,
+      "temp_max": 285.2
+    },
+    "visibility": 7000,
+    "wind": { "speed": 3.1, "deg": 95, "gust": 5.26 },
+    "rain": "heavy rain",
+    "timezone": 5400,
+    "name": "Bengaluru"
+  },
+  {
+    "coord": { "lon": 35.45, "lat": 58.22 },
+    "main": {
+      "temp": 292.4,
+      "feels_like": 290.1,
+      "temp_min": 288.1,
+      "temp_max": 295.12
+    },
+    "visibility": 12000,
+    "wind": { "speed": 2.1, "deg": 110, "gust": 7.22 },
+    "rain": "no rain",
+    "timezone": 5400,
+    "name": "Chennai"
+  },
+  {
+    "coord": { "lon": 33.21, "lat": 57.33 },
+    "main": {
+      "temp": 287.4,
+      "feels_like": 288.05,
+      "temp_min": 286.43,
+      "temp_max": 290.22
+    },
+    "visibility": 9200,
+    "wind": { "speed": 3.3, "deg": 115, "gust": 3.52 },
+    "rain": "moderate rain",
+    "timezone": 5500,
+    "name": "Hyderabad"
+  }
+]
